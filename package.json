@@ -1,5 +1,5 @@
 {
-  "name": "ai-api",
+  "name": "oniongpt",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,6 @@
   },
   "devDependencies": {
     "typescript": "^5.9.3",
-    "@cloudflare/workers-types": "^4.20251001.0",
-    "wrangler": "^3.78.8"
+    "@cloudflare/workers-types": "^4.20251001.0"
   }
 }
